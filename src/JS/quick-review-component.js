@@ -87,3 +87,10 @@ function openReader(folder, count) {
 
   loadNextImages();
 }
+
+// Circles
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(2) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Circles", 1142);
+  });
