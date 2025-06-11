@@ -94,3 +94,11 @@ document
   .addEventListener("click", () => {
     openReader("Circles", 1142);
   });
+
+  
+// Bunk Beds
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(3) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Bunk-Beds", 5250);
+  });
