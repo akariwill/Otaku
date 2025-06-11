@@ -1,0 +1,25 @@
+{
+  "name": "otaku",
+  "version": "1.0.0",
+  "description": "simple web for reading manga",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akariwill/Otaku.git"
+  },
+  "keywords": [],
+  "author": "akariwill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akariwill/Otaku/issues"
+  },
+  "homepage": "https://github.com/akariwill/Otaku#readme",
+  "devDependencies": {
+    "prettier": "^2.8.7",
+    "prettier-plugin-tailwindcss": "^0.2.6",
+    "tailwindcss": "^3.3.1"
+  }
+}
