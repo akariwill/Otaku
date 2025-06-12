@@ -94,11 +94,17 @@ document
   .addEventListener("click", () => {
     openReader("Circles", 1142);
   });
-
   
 // Bunk Beds
 document
   .querySelector("#mangaComponentMainContainer > div:nth-child(3) > div.quick-preview")
   .addEventListener("click", () => {
     openReader("Bunk-Beds", 5250);
+  });
+
+  // Keep This a Secret From Mom
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(4) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Keep-This-a-Secret-From-Mom", 2599);
   });

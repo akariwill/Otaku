@@ -22,4 +22,15 @@ const mangaInfo = [
 The person lying on the bed is a woman?! His bland college life has started to get more exciting!`,
     valumes: 1,
   },
+    // [3]
+    {
+    title: `Keep This a Secret From Mom`,
+    authors: `NOAH`,
+    demographic: `Manhwa`,
+    published: `2021`,
+    status: `Completed`,
+    genres: `Mature, Romance, School life`,
+    description: `Hae-Seong is staying at his mom’s friend’s house whose name is Yeona. He thought it would be enough study well at school but the top students are good at love too. “The classroom wasn’t only for studying…?!`,
+    valumes: 1,
+  },
 ]
