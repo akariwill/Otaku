@@ -33,4 +33,15 @@ The person lying on the bed is a woman?! His bland college life has started to g
     description: `Hae-Seong is staying at his mom’s friend’s house whose name is Yeona. He thought it would be enough study well at school but the top students are good at love too. “The classroom wasn’t only for studying…?!`,
     valumes: 1,
   },
+    // [4]
+    {
+    title: `Solo Leveling`,
+    authors: `Chu gong`,
+    demographic: `Manhwa`,
+    published: `2018`,
+    status: `Completed`,
+    genres: `Action, Adventure, Fantasy`,
+    description: `In a world where hunters, human warriors who possess magical abilities, must battle deadly monsters to protect mankind from certain annihilation, a notoriously weak hunter named Sung Jinwoo finds himself in a seemingly endless struggle for survival.`,
+    valumes: 1,
+  },
 ]

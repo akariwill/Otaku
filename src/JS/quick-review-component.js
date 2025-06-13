@@ -108,3 +108,10 @@ document
   .addEventListener("click", () => {
     openReader("Keep-This-a-Secret-From-Mom", 2599);
   });
+
+  // Solo Leveling
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(5) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Solo-Leveling", 8264);
+  });
