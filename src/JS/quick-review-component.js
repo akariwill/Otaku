@@ -122,3 +122,10 @@ document
   .addEventListener("click", () => {
     openReader("Sensei-Wa-Koi-o-Oshie-Rarenai", 982);
   });
+
+  // Fuufu Ijou Koibito Miman
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(7) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Fuufu-Ijou-Koibito-Miman", 2421);
+  });

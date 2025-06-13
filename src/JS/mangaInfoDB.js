@@ -55,4 +55,15 @@ The person lying on the bed is a woman?! His bland college life has started to g
     description: `A lazy student and a straight-laced teacher. At first glance, they seem like they are on bad terms, but things get different after class.`,
     valumes: 1,
   },
+    // [6]
+    {
+    title: `Fuufu Ijou Koibito Miman`,
+    authors: `Kanamaru`,
+    demographic: `Manga`,
+    published: `2018`,
+    status: `Ongoing`,
+    genres: `Romance, School life`,
+    description: `Jirou, a third-year in high school, is forced to live with a gal named Akari under a course called the "Couple Practical." In order to be paired with their own romantic interests, they're going to act as a married couple...!?`,
+    valumes: 1,
+  },
 ]
