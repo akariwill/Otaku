@@ -44,4 +44,15 @@ The person lying on the bed is a woman?! His bland college life has started to g
     description: `In a world where hunters, human warriors who possess magical abilities, must battle deadly monsters to protect mankind from certain annihilation, a notoriously weak hunter named Sung Jinwoo finds himself in a seemingly endless struggle for survival.`,
     valumes: 1,
   },
+    // [5]
+    {
+    title: `Sensei Wa Koi o Oshie Rarenai`,
+    authors: `Motomi Minamoto`,
+    demographic: `Manga`,
+    published: `2018`,
+    status: `Completed`,
+    genres: `Comedy, Romance, School life`,
+    description: `A lazy student and a straight-laced teacher. At first glance, they seem like they are on bad terms, but things get different after class.`,
+    valumes: 1,
+  },
 ]

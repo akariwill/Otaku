@@ -115,3 +115,10 @@ document
   .addEventListener("click", () => {
     openReader("Solo-Leveling", 8264);
   });
+
+  // Sensei Wa Koi o Oshie Rarenai
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(6) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Sensei-Wa-Koi-o-Oshie-Rarenai", 982);
+  });
