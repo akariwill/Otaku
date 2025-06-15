@@ -66,4 +66,15 @@ The person lying on the bed is a woman?! His bland college life has started to g
     description: `Jirou, a third-year in high school, is forced to live with a gal named Akari under a course called the "Couple Practical." In order to be paired with their own romantic interests, they're going to act as a married couple...!?`,
     valumes: 1,
   },
+    // [7]
+    {
+    title: `Bad Thinking Diary`,
+    authors: `Park Do han`,
+    demographic: `Manhwa`,
+    published: `2022`,
+    status: `Completed`,
+    genres: `Mature, Romance, Yuri`,
+    description: `Minji and Yuna have been best friends since high school, and Minji counts herself lucky to have someone so pretty and kind in her life. She just knows that when she finally starts dating, she wants it to be with someone as amazing as Yuna! Everything seems perfect, but things start to change when Minji begins having dirty dreams… ones starring Yuna herself! Minji chalks it up to her own loneliness, but for some reason Yuna starts acting strangely when Minji tells her about it… Is she upset, or could it be that Yuna has harbored feelings for Minji all along? From unrequited love, excitement, and obsession, just where will these bad thoughts lead them?`,
+    valumes: 1,
+  },
 ]

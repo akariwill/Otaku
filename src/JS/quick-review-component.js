@@ -129,3 +129,10 @@ document
   .addEventListener("click", () => {
     openReader("Fuufu-Ijou-Koibito-Miman", 2421);
   });
+
+  // Bad Thinking Diary
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(8) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Bad-Thinking-Diary", 2068);
+  });
