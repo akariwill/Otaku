@@ -100,4 +100,15 @@ Follow Shenzhen as she avenge her family and maybe fall in love?`,
     description: `Traumatized by a childhood incident with a friend who took exception to his love of traditional dolls, doll-artisan hopeful Wakana Gojo passes his days as a loner, finding solace in the home ec room at his high school.`,
     valumes: 1,
   },
+    // [10]
+    {
+    title: `Class de 2 Banme ni Kawaii Onna no Ko to Tomodachi ni Natta`,
+    authors: `Takata`, 
+    demographic: `Manga`,
+    published: `2022`,
+    status: `Ongoing`,
+    genres: `Comedy, Romance`,
+    description: `Maki Maehara is always on his own at school. He has no friends or hobbies others share, and he doesn't expect the upcoming academic year to be any different, even surrounded by new faces. And six months later, it seems like he was right—until he runs into his popular classmate Umi Asanagi at a video store! Always at the center of attention and called the "second prettiest in class" by the boys, Asanagi's from a totally different world. But it turns out the two have more overlapping interests than just the B-grade movies they came to check out...and Asanagi asks Maehara to be her friend!`,
+    valumes: 1,
+  },
 ]

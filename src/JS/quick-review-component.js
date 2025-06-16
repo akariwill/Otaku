@@ -150,3 +150,10 @@ document
   .addEventListener("click", () => {
     openReader("Sono-Bisque-Doll-wa-Koi-wo-Suru", 2579);
   });
+
+// Class de 2 Banme ni Kawaii Onna no Ko to Tomodachi ni Natta
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(11) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Class-de-2-Banme-ni-Kawaii-Onna-no-Ko-to-Tomodachi-ni-Natta", 996);
+  });
