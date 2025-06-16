@@ -143,3 +143,10 @@ document
   .addEventListener("click", () => {
     openReader("Shouxing-Laogong-Ye-Ye-Liao", 2474);
   });
+
+// Sono Bisque Doll wa Koi wo Suru
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(10) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Sono-Bisque-Doll-wa-Koi-wo-Suru", 2579);
+  });

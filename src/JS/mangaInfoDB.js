@@ -89,4 +89,15 @@ The person lying on the bed is a woman?! His bland college life has started to g
 Follow Shenzhen as she avenge her family and maybe fall in love?`,
     valumes: 1,
   },
+    // [9]
+    {
+    title: `Sono Bisque Doll wa Koi wo Suru`,
+    authors: `Shinichi Fukada`, 
+    demographic: `Manga`,
+    published: `2018`,
+    status: `Completed`,
+    genres: `Romance, Slice of Life`,
+    description: `Traumatized by a childhood incident with a friend who took exception to his love of traditional dolls, doll-artisan hopeful Wakana Gojo passes his days as a loner, finding solace in the home ec room at his high school.`,
+    valumes: 1,
+  },
 ]
