@@ -136,3 +136,10 @@ document
   .addEventListener("click", () => {
     openReader("Bad-Thinking-Diary", 2068);
   });
+
+// Shouxing Laogong Ye Ye Liao
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(9) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Shouxing-Laogong-Ye-Ye-Liao", 2474);
+  });

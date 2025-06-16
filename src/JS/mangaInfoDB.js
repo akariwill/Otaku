@@ -77,4 +77,16 @@ The person lying on the bed is a woman?! His bland college life has started to g
     description: `Minji and Yuna have been best friends since high school, and Minji counts herself lucky to have someone so pretty and kind in her life. She just knows that when she finally starts dating, she wants it to be with someone as amazing as Yuna! Everything seems perfect, but things start to change when Minji begins having dirty dreams… ones starring Yuna herself! Minji chalks it up to her own loneliness, but for some reason Yuna starts acting strangely when Minji tells her about it… Is she upset, or could it be that Yuna has harbored feelings for Minji all along? From unrequited love, excitement, and obsession, just where will these bad thoughts lead them?`,
     valumes: 1,
   },
+    // [8]
+    {
+    title: `Shouxing Laogong Ye Ye Liao`,
+    authors: `Chudao`,
+    demographic: `Manhua`,
+    published: `2019`,
+    status: `Ongoing`,
+    genres: `Romance, Drama`,
+    description: `After Xu Shenzhen's family went bankrupt by the scheme of other, desperate to pay her debt she sold herself to Li Jun Chen, throwing her pride away in the middle of the night when the rain and snow scattered.
+Follow Shenzhen as she avenge her family and maybe fall in love?`,
+    valumes: 1,
+  },
 ]
