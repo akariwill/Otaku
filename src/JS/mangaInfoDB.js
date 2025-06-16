@@ -111,4 +111,15 @@ Follow Shenzhen as she avenge her family and maybe fall in love?`,
     description: `Maki Maehara is always on his own at school. He has no friends or hobbies others share, and he doesn't expect the upcoming academic year to be any different, even surrounded by new faces. And six months later, it seems like he was right—until he runs into his popular classmate Umi Asanagi at a video store! Always at the center of attention and called the "second prettiest in class" by the boys, Asanagi's from a totally different world. But it turns out the two have more overlapping interests than just the B-grade movies they came to check out...and Asanagi asks Maehara to be her friend!`,
     valumes: 1,
   },
+    // [11]
+    {
+    title: `Amagami san Chi no Enmusubi`,
+    authors: `Naitou`, 
+    demographic: `Manga`,
+    published: `2021`,
+    status: `Ongoing`,
+    genres: `Comedy, Romance`,
+    description: `After witnessing his mother's death at a young age, Uryuu Kamihate grew up disillusioned with the gods, dismissing faith in them as utter nonsense. Due to his beliefs, he aims to become a doctor, spending most of his time studying to enter the prestigious Kyoto University.`,
+    valumes: 1,
+  },
 ]

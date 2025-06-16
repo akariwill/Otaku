@@ -157,3 +157,10 @@ document
   .addEventListener("click", () => {
     openReader("Class-de-2-Banme-ni-Kawaii-Onna-no-Ko-to-Tomodachi-ni-Natta", 996);
   });
+
+// Amagami san Chi no Enmusubi
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(12) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Amagami-san-Chi-no-Enmusubi", 3914);
+  });
