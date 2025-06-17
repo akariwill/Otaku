@@ -164,3 +164,10 @@ document
   .addEventListener("click", () => {
     openReader("Amagami-san-Chi-no-Enmusubi", 3914);
   });
+
+// Tensei Shitara Slime Datte Ken
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(13) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Tensei-Shitara-Slime-Datte-Ken", 4819);
+  });

@@ -122,4 +122,15 @@ Follow Shenzhen as she avenge her family and maybe fall in love?`,
     description: `After witnessing his mother's death at a young age, Uryuu Kamihate grew up disillusioned with the gods, dismissing faith in them as utter nonsense. Due to his beliefs, he aims to become a doctor, spending most of his time studying to enter the prestigious Kyoto University.`,
     valumes: 1,
   },
+    // [12]
+    {
+    title: `Tensei Shitara Slime Datte ken`,
+    authors: `Kawakami Taiki`, 
+    demographic: `Manga`,
+    published: `2015`,
+    status: `Ongoing`,
+    genres: `Action, Comedy, Fantasy`,
+    description: `Thirty-seven-year-old Satoru Mikami is a typical corporate worker, who is perfectly content with his monotonous lifestyle in Tokyo, other than failing to nail down a girlfriend even once throughout his life. In the midst of a casual encounter with his colleague, he falls victim to a random assailant on the streets and is stabbed. However, while succumbing to his injuries, a peculiar voice echoes in his mind, and recites a bunch of commands which the dying man cannot make sense of.`,
+    valumes: 1,
+  },
 ]
