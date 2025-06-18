@@ -171,3 +171,10 @@ document
   .addEventListener("click", () => {
     openReader("Tensei-Shitara-Slime-Datte-Ken", 4819);
   });
+
+// My Office Noona Story
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(14) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("My-Office-Noona-Story", 1114);
+  });
