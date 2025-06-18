@@ -178,3 +178,10 @@ document
   .addEventListener("click", () => {
     openReader("My-Office-Noona-Story", 1114);
   });
+
+  // Kono Kaisha ni Suki na Hito ga Imasu
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(15) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Kono-Kaisha-ni-Suki-na-Hito-ga-Imasu", 1669);
+  });

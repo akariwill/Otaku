@@ -144,4 +144,15 @@ Follow Shenzhen as she avenge her family and maybe fall in love?`,
     description: `Ahn was a mature and attractive older woman I met through my company’s task force. Wise and caring, that’s how I became captivated with her… However, she was also a woman with a child.`,
     valumes: 1,
   },
+    // [14]
+    {
+    title: `Kono Kaisha ni Suki na Hito ga Imasu`,
+    authors: `Enomoto Akamaru`, 
+    demographic: `Manga`,
+    published: `2019`,
+    status: `Completed`,
+    genres: `Comedy, Romance`,
+    description: `Yui Mitsuya and Masugu Tateishi aren't just any coworkers—they totally have the hots for each other. His helpful yet humble attitude makes her giddy, and her cuteness leaves him grinning like a fool. Problem is, they're trying to keep their new relationship under wraps to avoid making things awkward at work. But seeing how they can't keep their hands off each other, they run the risk of spilling their little secret with each passing day at the office.`,
+    valumes: 1,
+  },
 ]
