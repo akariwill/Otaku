@@ -155,4 +155,15 @@ Follow Shenzhen as she avenge her family and maybe fall in love?`,
     description: `Yui Mitsuya and Masugu Tateishi aren't just any coworkers—they totally have the hots for each other. His helpful yet humble attitude makes her giddy, and her cuteness leaves him grinning like a fool. Problem is, they're trying to keep their new relationship under wraps to avoid making things awkward at work. But seeing how they can't keep their hands off each other, they run the risk of spilling their little secret with each passing day at the office.`,
     valumes: 1,
   },
+    // [15]
+    {
+    title: `Kawaii dake ja Nai Shikimori-san`,
+    authors: `Maki Keigo`, 
+    demographic: `Manga`,
+    published: `2019`,
+    status: `Completed`,
+    genres: `Comedy, Romance`,
+    description: `Yuu Izumi is a high school student whose life is filled with misfortune. Ever since he was young, he would always return home with injuries. Due to his unlucky disposition, his days are full of nothing but unfortunate events—that is, until he started dating Micchon Shikimori.`,
+    valumes: 1,
+  },
 ]

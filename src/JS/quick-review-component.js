@@ -185,3 +185,10 @@ document
   .addEventListener("click", () => {
     openReader("Kono-Kaisha-ni-Suki-na-Hito-ga-Imasu", 1669);
   });
+
+  // Kawaii dake ja Nai Shikimori-san
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(16) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("Kawaii-dake-ja-Nai-Shikimori-san", 2622);
+  });
