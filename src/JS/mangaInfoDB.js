@@ -166,4 +166,15 @@ Follow Shenzhen as she avenge her family and maybe fall in love?`,
     description: `Yuu Izumi is a high school student whose life is filled with misfortune. Ever since he was young, he would always return home with injuries. Due to his unlucky disposition, his days are full of nothing but unfortunate events—that is, until he started dating Micchon Shikimori.`,
     valumes: 1,
   },
+    // [16]
+    {
+    title: `My Bias Gets on the Last Train`,
+    authors: `Jixksee`, 
+    demographic: `Manhwa`,
+    published: `2024`,
+    status: `Ongoing`,
+    genres: `Comedy, Romance`,
+    description: `“Meeting her on the last train again today, if only I could talk to her!” College student Lee Yeowoon works late and takes the last train every night. Each time, he runs into Shin Haein, a woman carrying a guitar. As if by chance, as if by fate, the two keep meeting and discover that their favorite artist is the indie musician “Long Afternoon.” They gradually grow closer and so the story began.“Meeting her on the last train again today, if only I could talk to her!” College student Lee Yeowoon works late and takes the last train every night. Each time, he runs into Shin Haein, a woman carrying a guitar. As if by chance, as if by fate, the two keep meeting and discover that their favorite artist is the indie musician “Long Afternoon.” They gradually grow closer and so the story began.`,
+    valumes: 1,
+  },
 ]

@@ -192,3 +192,10 @@ document
   .addEventListener("click", () => {
     openReader("Kawaii-dake-ja-Nai-Shikimori-san", 2622);
   });
+
+  // My Bias Gets on the Last Train
+document
+  .querySelector("#mangaComponentMainContainer > div:nth-child(17) > div.quick-preview")
+  .addEventListener("click", () => {
+    openReader("My-Bias-Gets-on-the-Last-Train", 498);
+  });
